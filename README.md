@@ -1,2 +1,1 @@
-#!/bin/bash
-a mandatory task
+#!/bin/bash a mandatory task
